@@ -141,12 +141,6 @@ Releasing a new version
 Author
 ------
 
-Erick Schmitt - [@ejschmitt][1]
-
-Maintained by Andy Atkinson - [@andatki][2]
+Martin Nikolov
 
 Get in touch if you'd like to take over maintenance!
-
-[0]: https://github.com/defunkt/resque
-[1]: http://twitter.com/ejschmitt
-[2]: http://twitter.com/andatki
